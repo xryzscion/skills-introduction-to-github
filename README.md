@@ -1,8 +1,8 @@
-# Introduction to GitHub
+# I am xryzscion
 
 <img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
 
-Hey xryzscion!
+Hey! i am xryzscion!
 
 Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
 
